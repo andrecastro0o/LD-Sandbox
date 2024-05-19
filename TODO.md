@@ -2,3 +2,4 @@
 - [X] produce quick and dirty HTML: `build.sh`
 - [ ] host HTML 
 - [ ] understand python code in Markdown documents in Jupyter-book context
+- [ ] change: `© Copyright 2023.` at Bottom of HTML to `CC BY-SA 4.0` 
