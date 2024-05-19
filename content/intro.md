@@ -3,8 +3,6 @@
 *a repo-blog where I will write, play and code ideas related to linked open data and similar topics*
 
 
-
-
 🦕
 
 ## Publishing and Writing 
@@ -16,7 +14,7 @@ It looks spot on for the ways in which I like to write, mixing markdown and pyth
 
 Inside a virtual envirtual enviroment:  `pip install jupyter-book`
 
-
+Build HTML ouput from source: `sh build.sh`. Output will be inside `build/_build/` 
 
 # 🔫 Colophon 
 

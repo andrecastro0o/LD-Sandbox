@@ -1,2 +1,4 @@
 - [ ] clean template boiler plate, as it is replaced with real content
-- [ ] produce quick and dirty HTML
+- [X] produce quick and dirty HTML: `build.sh`
+- [ ] host HTML 
+- [ ] understand python code in Markdown documents in Jupyter-book context
