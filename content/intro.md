@@ -1,11 +1,27 @@
-# Welcome to your Jupyter Book
+# Linked-Data Sandbox 🏖️
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+*a repo-blog where I will write, play and code ideas related to linked open data and similar topics*
 
-Check out the content pages bundled with this sample book to see more.
 
-```{tableofcontents}
-```
+
+
+🦕
+
+## Publishing and Writing 
+
+I will start by exploring the possibilities of [Jupyter Book](https://jupyterbook.org/) as a publishing framework. 
+It looks spot on for the ways in which I like to write, mixing markdown and python, in the same document. And having git repository as the publicatin base layer. Plus it released under BSD 3-Clause License. 
+
+## Build 
+
+Inside a virtual envirtual enviroment:  `pip install jupyter-book`
+
+
+
+# 🔫 Colophon 
+
+Comments, feedback, and contributions: via [issues](https://github.com/andrecastro0o/LD-Sandbox/issues)
+
+Author: [André Castro](https://orcid.org/0000-0002-7839-3698) 
+
+License [CC BY-SA 4.0](LICENSE) 

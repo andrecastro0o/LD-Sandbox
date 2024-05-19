@@ -1,0 +1,2 @@
+- [ ] clean template boiler plate, as it is replaced with real content
+- [ ] produce quick and dirty HTML
